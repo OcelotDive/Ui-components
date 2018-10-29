@@ -1,0 +1,15 @@
+
+h2 {
+	text-decoration: underline;
+}
+
+.avatar {
+	border-radius: 50%;
+	width: 50px;
+
+	
+}
+.avatarSmall {
+	border-radius: 50%;
+	width: 30px;
+}

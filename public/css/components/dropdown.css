@@ -1,0 +1,11 @@
+
+.dropdown {
+    display: inline-block;
+   
+}
+.dropdown-menu a {
+    font-weight: lighter !important;
+    box-shadow: none !important; 
+    color: silver !important;
+	
+}
